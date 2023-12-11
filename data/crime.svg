@@ -1,102 +1,37 @@
-<svg width="626" height="768" viewBox="0 0 626 768" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="mask0_765_279" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="283" y="0" width="343" height="768">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M283.742 698.355C309.172 698.355 312.144 718.658 312.144 762.259C312.144 769.914 323.812 769.913 323.703 762.259C323.043 715.662 323.703 686.706 351.775 686.706C376.762 686.706 378.122 714.742 379.107 735.045C379.671 746.675 380.112 755.768 384.8 755.602C403.625 754.937 437.971 728.976 434.999 688.37C437.899 635.76 456.844 639.873 492.056 647.516C496.942 648.577 502.142 649.705 507.655 650.76C553.56 655.752 611.685 574.874 605.08 547.249C602.994 538.525 600.513 529.734 598.146 521.349C593.019 503.182 588.428 486.918 589.558 477.354C589.782 475.462 591.42 470.621 593.887 463.332C609.65 416.756 659.236 270.244 589.558 154.839C564.019 101.918 467.1 -3.12393 283.742 0.0712667V514.964C299.925 514.964 315.287 524.462 326.345 544.253C345.5 578.535 354.747 630.457 283.742 630.457V698.355ZM296.622 405.795C296.622 497.99 541.011 601.501 525.489 405.795C513.269 300.952 305.605 274.526 296.622 405.795Z" fill="#0D0D0D"/>
+<svg width="726" height="868" viewBox="0 0 726 868" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_874_109)">
+<mask id="mask0_874_109" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="333" y="45" width="343" height="768">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M333.742 743.355C359.172 743.355 362.144 763.658 362.144 807.259C362.144 814.914 373.812 814.913 373.703 807.259C373.043 760.662 373.703 731.706 401.775 731.706C426.762 731.706 428.122 759.742 429.107 780.045C429.671 791.675 430.112 800.768 434.8 800.602C453.625 799.937 487.971 773.976 484.999 733.37C487.899 680.76 506.844 684.873 542.056 692.516C546.942 693.577 552.142 694.705 557.655 695.76C603.56 700.752 661.685 619.874 655.08 592.249C652.994 583.525 650.513 574.734 648.146 566.349C643.019 548.182 638.428 531.918 639.558 522.354C639.782 520.462 641.42 515.621 643.887 508.332C659.65 461.756 709.236 315.244 639.558 199.839C614.019 146.918 517.1 41.8761 333.742 45.0713V559.964C349.925 559.964 365.287 569.462 376.345 589.253C395.5 623.535 404.747 675.457 333.742 675.457V743.355ZM346.622 450.795C346.622 542.99 591.011 646.501 575.489 450.795C563.269 345.952 355.605 319.526 346.622 450.795Z" fill="#0D0D0D"/>
 </mask>
-<g mask="url(#mask0_765_279)">
-<rect width="768" height="90.8387" transform="translate(-238 222) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-192.581 300.669) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-192.581 300.669) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 379.338) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 379.338) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 379.338) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 458.006) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 458.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 458.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 458.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 536.675) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 536.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 536.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 536.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 536.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 615.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 694.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 772.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 851.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<g mask="url(#mask0_874_109)">
+<rect width="768" height="272.516" transform="translate(-188 267) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(-51.7419 503.006) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(-51.7419 503.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<rect width="768" height="272.516" transform="translate(84.5161 739.012) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(84.5161 739.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<rect width="768" height="272.516" transform="translate(84.5161 739.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
 </g>
-<mask id="mask1_765_279" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="202" width="234" height="338">
-<path d="M0.437927 464.224C0.437927 445.792 5.55793 429.749 15.7979 416.096C26.0379 402.443 39.3499 392.032 55.7339 384.864C68.7046 379.061 83.8939 373.259 101.302 367.456C118.71 361.653 132.193 355.509 141.75 349.024C151.307 342.539 156.086 334.859 156.086 325.984V283.488C156.086 272.907 151.819 265.909 143.286 262.496C134.07 258.741 119.734 256.864 100.278 256.864C76.7259 256.864 45.6646 261.131 7.09393 269.664V213.344C41.2273 206.176 76.8966 202.592 114.102 202.592C154.379 202.592 184.246 208.736 203.702 221.024C223.499 233.312 233.398 253.792 233.398 282.464V328.544C233.398 345.952 228.107 361.141 217.526 374.112C207.286 386.741 193.974 396.299 177.59 402.784C162.23 409.269 146.529 415.072 130.486 420.192C113.078 426.336 99.2539 433.163 89.0139 440.672C79.1153 448.181 74.1659 457.056 74.1659 467.296V484.192H233.91V540H0.437927V464.224Z" fill="#2A1E0E"/>
+<mask id="mask1_874_109" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="50" y="247" width="234" height="338">
+<path d="M50.4379 509.224C50.4379 490.792 55.5579 474.749 65.7979 461.096C76.0379 447.443 89.3499 437.032 105.734 429.864C118.705 424.061 133.894 418.259 151.302 412.456C168.71 406.653 182.193 400.509 191.75 394.024C201.307 387.539 206.086 379.859 206.086 370.984V328.488C206.086 317.907 201.819 310.909 193.286 307.496C184.07 303.741 169.734 301.864 150.278 301.864C126.726 301.864 95.6646 306.131 57.0939 314.664V258.344C91.2273 251.176 126.897 247.592 164.102 247.592C204.379 247.592 234.246 253.736 253.702 266.024C273.499 278.312 283.398 298.792 283.398 327.464V373.544C283.398 390.952 278.107 406.141 267.526 419.112C257.286 431.741 243.974 441.299 227.59 447.784C212.23 454.269 196.529 460.072 180.486 465.192C163.078 471.336 149.254 478.163 139.014 485.672C129.115 493.181 124.166 502.056 124.166 512.296V529.192H283.91V585H50.4379V509.224Z" fill="#2A1E0E"/>
 </mask>
-<g mask="url(#mask1_765_279)">
-<rect width="768" height="90.8387" transform="translate(-238 223) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-192.581 301.669) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-192.581 301.669) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 380.338) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 380.338) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-147.161 380.338) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 459.006) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 459.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 459.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-101.742 459.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 537.675) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 537.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 537.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 537.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-56.3226 537.675) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(-10.9032 616.343) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(34.5161 695.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(79.9355 773.68) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="#FFAE4F"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
-<rect width="768" height="90.8387" transform="translate(125.355 852.349) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<g mask="url(#mask1_874_109)">
+<rect width="768" height="272.516" transform="translate(-188 268) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(-51.7419 504.006) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(-51.7419 504.006) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<rect width="768" height="272.516" transform="translate(84.5161 740.012) rotate(-30)" fill="#816271"/>
+<rect width="768" height="272.516" transform="translate(84.5161 740.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
+<rect width="768" height="272.516" transform="translate(84.5161 740.012) rotate(-30)" fill="black" fill-opacity="0.2"/>
 </g>
+</g>
+<defs>
+<filter id="filter0_d_874_109" x="0.437927" y="0" width="725.304" height="868" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_874_109"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_874_109" result="shape"/>
+</filter>
+</defs>
 </svg>
